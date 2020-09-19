@@ -29,10 +29,6 @@ Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
-"solarized color scheme
-syntax enable
-set background=dark
-colorscheme solarized
 
 "lightline
 let g:lightline = { 'colorscheme': 'solarized'}
