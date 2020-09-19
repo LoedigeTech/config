@@ -31,7 +31,6 @@ call plug#end()
 
 
 "lightline
-let g:lightline = { 'colorscheme': 'solarized'}
 set laststatus=2
 
 "NERDTree
